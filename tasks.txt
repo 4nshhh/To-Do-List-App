@@ -1,0 +1,4 @@
+[ ] Gym
+[ ] Dance
+[ ] Study
+[ ] Grocery
